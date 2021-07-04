@@ -13,5 +13,6 @@ I have little information about:<br>
 2-html<br>
 3-css<br>
 4-js <br>
-5- flutter (bigginer) <br>
-6- asp.net core and mvc (bigginer)
+5- flutter (beginner) <br>
+6- asp.net core and mvc (beginner) <br>
+6- react.js and react native (beginner)
